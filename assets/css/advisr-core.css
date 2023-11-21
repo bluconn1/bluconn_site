@@ -1484,6 +1484,8 @@ display: inline-block;
 
 .contact2-icon {
   padding-right: 10px;
+  color: #3abeb9;
+  font-size: 18px;
 }
 .contact2-form-box-all {
   background-color: #fff;
@@ -2749,7 +2751,7 @@ transition: all.4s;
 }
 
 .about-team-icons li a:hover {
-  background-color: #0E1681;
+  background-color: rgb(67 192 120);
   color: #fff;
   transition: all.4s;
 }
@@ -2765,7 +2767,7 @@ transition: all.4s;
 }
 
 .about-team-box:hover {
-  background-color: #0E1681;
+  background-color: #254969;
   transition: all.4s;
 }
 

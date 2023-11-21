@@ -1583,8 +1583,8 @@ text-transform: capitalize;
 
 
 .comon-button {
-  background: #0E1681;
-  box-shadow: 0px 4px 12px 0px rgba(14, 22, 129, 0.13);
+  background: #18a61d;
+  box-shadow: 0px 4px 12px 0px rgba(14, 129, 60, 0.13);
   border: none;
   text-align: center;
   padding: 12px 24px;
@@ -1623,7 +1623,7 @@ position: relative;
 
 .comon-button:hover {
   transform: translateY(-5px);
-  color: #03163B;
+  color: #033b13;
 }
 
 /* comon button 3 */
@@ -1701,7 +1701,7 @@ position: relative;
   width: 0;
   content: "";
   height: 100%;
-  background: #0E1681;
+  background: #192D68;
   z-index: -1;
   transition: all.4s;
 }
