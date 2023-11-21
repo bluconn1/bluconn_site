@@ -1,0 +1,1108 @@
+/*----===================
+------HOME 1 AREA CSS----
+========================*/
+
+
+/*======== hero area =======*/
+
+@media screen and (max-width: 769px) {
+    .hero1-image-all {
+      position: relative;
+      height: 600px;
+      margin-right: 0;
+      margin-top: 130px;
+  }
+  .hero1-image-all {
+    position: relative;
+    height: 781px;
+    margin-right: 0;
+    margin-top: 130px;
+  }
+  .main-hadding h1 {
+    font-size: 42px;
+    line-height: 52px;
+  }
+  
+  .brand-area {
+    background-color: #161540;
+    height: 100px;
+    transform: rotate(0);
+    margin-top: 60px;
+    width: 100%;
+    margin-left: 0;
+    right: 0;
+  }
+
+  .header1-button-all {
+    margin-left: 0px;
+    margin-top: 20px;
+}
+
+.hero1-image-all {
+    position: relative;
+    height: 597px;
+    margin-right: 0;
+    margin-top: 60px;
+}
+
+.cta2-hadding2 h1 {
+    color: #FFF;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+}
+
+.main-hadding {
+    padding-top: 160px;
+}
+}
+
+
+@media screen and (max-width: 426px) {
+    .hero1-image-all {
+        position: relative;
+        height: 800px;
+        margin-right: 0;
+        margin-top: 60px;
+    }
+}
+
+@media screen and (max-width: 321px) {
+    .hero1-image-all {
+        position: relative;
+        height: 750px;
+        margin-right: 0;
+        margin-top: 60px;
+    }
+
+    .hero1-img-4 {
+        position: absolute;
+        bottom: 22px;
+        left: 0;
+    }
+}
+
+/*======== hero area =======*/
+
+/*======== home1 service area =======*/
+
+@media screen and (max-width: 426px) {
+    .service1-box {
+        display: block;
+    }
+
+    .service1-box-icon {
+        margin-bottom: 20px;
+    }
+
+}
+/*======== home1 serivce area =======*/
+
+
+
+/*======== home1 case area =======*/
+
+@media screen and (max-width: 426px) {
+    .about-1-img4 {
+        position: absolute;
+        bottom: 30px;
+        left: 0;
+    }
+
+    .case-box-all:hover .case-box-after {
+        height: 240px;
+        transition: all 0.4s ease 0s;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    .about1-image-all {
+        position: relative;
+        height: 669px;
+    }
+}
+
+@media screen and (max-width: 321px) {
+    .about1-image-all {
+        position: relative;
+        height: 500px;
+    }
+
+    .case-box-img {
+        overflow: hidden;
+        transition: all 1.9s;
+        height: 420px;
+    }
+
+    .case-box-img img {
+        height: 420px;
+        object-fit: cover;
+    }
+
+    .case-box-all:hover .case-box-after {
+        height: 320px;
+        transition: all 0.4s ease 0s;
+    }
+}
+
+/*======== home1 case area =======*/
+
+/*======== home1 counter area =======*/
+
+@media screen and (max-width: 769px) {
+    .counter-hadding-h {
+        width: auto;
+        text-align: center;
+    }
+
+    .counter1-hadding {
+        display: block;
+        padding-bottom: 30px;
+    }
+
+    .counter-hadding-p {
+        text-align: center;
+        padding-top: 8px;
+    }
+}
+
+@media screen and (max-width: 426px) {
+    .counter-hadding-h h1 {
+        color: rgba(255, 255, 255, 0.85);
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 48px;
+        text-transform: capitalize;
+    }
+}
+
+
+/*======== home1 counter area =======*/
+
+/*======== home1 testimonail area =======*/
+
+@media screen and (max-width: 769px) {
+    .trusred-slider-all {
+      margin-left: 0;
+    }
+
+    .testimonial1-image-all {
+      position: relative;
+      height: 420px;
+      margin-bottom: 40px;
+  }
+
+  .testimonial1-img2 {
+    position: absolute;
+    top: 0;
+    left: 10px;
+}
+
+.testimonial1-img3 {
+    bottom: 0;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    top: 0;
+}
+
+.testimonial1-img4 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+  .testimonial1-img5 {
+    position: absolute;
+    bottom: 0;
+}
+  .owl-nav {
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  br {
+    display: none;
+  }
+  }
+
+/*======== home1 testimonial area =======*/
+
+/*======== home1 cta area =======*/
+
+@media screen and (max-width: 769px) {
+    .cta1-buttons {
+        display: flex;
+        align-items: center;
+        justify-content: start;
+        margin-top: 30px;
+    }
+
+    .cta1-buttons {
+        display: block;
+        align-items: center;
+        justify-content: start;
+        margin-top: 30px;
+    }
+
+    .cta1-buttons a:nth-child(2) {
+        margin-top: 20px;
+        margin-left: 0;
+        margin-right: 5px;
+    }
+
+    .cta1-buttons {
+        display: block;
+        align-items: center;
+        justify-content: start;
+        margin-top: 30px;
+        text-align: start;
+    }
+}
+
+/*======== home1 cta area =======*/
+
+
+
+/*----===================
+------HOME 1 AREA CSS----
+========================*/
+
+/*----===================
+------HOME 2 AREA CSS----
+========================*/
+
+/*======== home2 hero area =======*/
+
+@media screen and (max-width: 769px) {
+    .main-hadding2 h1 {
+        color: var(--font-color, #03163B);
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 48px;
+        letter-spacing: -1.12px;
+        text-transform: capitalize;
+    }
+
+    .main-hadding2 span.after2::after {
+      display: none;
+    }
+    .main-hadding2 {
+      margin-top: 100px;
+    }
+
+    .hadding2 h1 {
+        color: var(--font-color, #03163B);
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 42px;
+        text-transform: capitalize;
+    }
+
+    .hero2-img3.img100.border-80 {
+        margin-bottom: 100px;
+    }
+
+    .hadding2-w h1 {
+        color: #fff;
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 42px;
+        text-transform: capitalize;
+    }
+
+    .hadding2 span.after2::after {
+        content: "";
+        position: absolute;
+        bottom: -35px;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        background-image: url(../img/shapes/line1.png);
+        background-repeat: no-repeat;
+    }
+    .hadding2-w span.after2::after {
+        content: "";
+        position: absolute;
+        bottom: -40px;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        background-image: url(../img/shapes/line1.png);
+        background-repeat: no-repeat;
+    }
+
+  }
+  
+  @media screen and (max-width: 426px) {
+    .header2-buttons {
+      display: block;
+    }
+    .header2-buttons {
+      text-align: start;
+  }
+  .button2-all2 {
+    margin-left: 0;
+    margin-top: 30px;
+  }
+  .brand2-slider-all {
+    margin-right: 0;
+    margin-top: 20px;
+  }
+  }
+  
+/*======== home2 hero area =======*/
+
+/*======== home2 choose area =======*/
+
+@media screen and (max-width: 426px) {
+    .counter-boxs {
+        display: block;
+        align-items: center;
+        margin-top: 30px;
+    }
+
+    .counter-boxs .counter2-box:nth-child(2) {
+        margin-left: 0;
+      }
+
+      .counter2-box {
+        margin-top: 20px;
+    }
+
+  }
+
+  @media screen and (max-width: 769px) {
+    .header2-buttons.header2-buttons2 {
+      display: block;
+      margin-top: 20px;
+    }
+    .project-button {
+      padding: 30px 0;
+      text-align: start;
+   }
+   .project-box {
+    margin: -70px 20px 0px 20px;
+}
+   .testimonial-single-slider {
+    display: block;
+    padding: 20px;
+   }
+   .testimonial2-slider-img {
+    margin-bottom: 20px;
+   }
+
+   .text-right {
+    text-align: left;
+}
+
+.choose2-images {
+    margin-top: 50px;
+  }
+  
+  .choose2-img1 {
+    position: absolute;
+    right: 89px;
+    top: 0;
+    z-index: -1;
+}
+  
+  }
+
+
+/*======== home2 choose area =======*/
+
+/*----===================
+------HOME 2 AREA CSS----
+========================*/
+
+/*----===================
+------HOME 3 AREA CSS----
+========================*/
+
+@media screen and (max-width: 426px) {
+    .header3-buttons {
+        display: block;
+        align-items: center;
+    }
+
+    .header3-btn {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+}
+
+/*----===================
+------HOME 3 AREA CSS----
+========================*/
+
+/*----===================
+------HOME 4 AREA CSS----
+========================*/
+
+
+@media screen and (max-width: 769px) {
+.main-hadding4 h1 {
+    color: #FFF;
+    font-family: Catamaran;
+    font-size: 42px;
+    font-style: normal;
+    line-height: 50px;
+    font-weight: 700;
+    line-height: 60px;
+    text-transform: capitalize;
+}
+.main-hadding4 {
+    padding-top: 150px;
+}
+
+.cta4-wrap {
+    position: relative;
+    margin: 30px 60px 0px 60px;
+}
+
+.social.social4 {
+    margin-bottom: 20px;
+}
+
+}
+@media screen and (max-width: 426px)  {
+    .cta4-wrap {
+        position: relative;
+        margin: 0;
+        margin-top: 30px;
+    }
+    .footer4-border {
+        border-top: 1px solid #ffffff1e;
+        padding: 30px 0px;
+    }
+}
+
+@media screen and (max-width: 376px) {
+.header4-button4 {
+    margin: 0;
+}
+}
+
+
+/*----===================
+------HOME 4 AREA CSS----
+========================*/
+
+
+/*----===================
+------ABOUT PAGE CSS----
+========================*/
+@media screen and (max-width: 769px) {
+    .counter-box-all {
+        padding-left: 0;
+    }
+    
+    .hadding4-w h1 {
+        color: rgba(255, 255, 255, 0.90);
+        font-size: 39px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 47px;
+        text-transform: capitalize;
+    }
+
+    .comment-form-input input {
+        width: 100%;
+        border: 1px solid #E9E8E8;
+        padding: 13px;
+        margin-top: 15px;
+        margin-top: 15px;
+    }
+
+    .comment-form-input input:nth-child(2) {
+        margin-left: 0;
+        margin-top: 15px;
+    }
+
+    .replly-box {
+        display: block;
+    }
+
+    .replly-p {
+        margin: 20px 0;
+    }
+
+    .details-tag-list ul li {
+        display: inline-block;
+        padding-left: 5px;
+        margin: 5px 0px;
+    }
+
+    .shop-sidebar {
+        margin-top: 40px;
+    }
+
+    .shop-details-hadding {
+        margin-top: 20px;
+    }
+    .Registration-form {
+        border-left: none;
+        padding-left: 0;
+        padding-top: 60px;
+    }
+
+}
+
+@media screen and (max-width: 426px) {
+    .shop-sidebar-top p{
+        margin-bottom: 20px;
+    }
+}
+
+
+
+/*----===================
+------ABOUT PAGE CSS----
+========================*/
+
+/*----===================
+------CART PAGE CSS----
+========================*/
+
+@media screen and (max-width: 426px) {
+    tr.cart-product-list {
+        border: 1px solid #000;
+        margin-bottom: 15px;
+    }
+
+    td.cart-prodct.cart-product-img {
+        justify-content: center;
+    }
+
+    tr.cart-head{
+        display: none;
+    }
+    .cart-head-1{
+        display: none;
+    }
+    tr.cart-product-list {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    tr.cart-product-list-1 {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    .footer-last img {
+        padding: 50px 0 0;
+    }
+    
+    tr.cart-product-list div {
+        justify-content: center;
+    }
+    tr.cart-product-list-1 div {
+        justify-content: center;
+    }
+    td.cart-prodct.cart-product-img {
+        justify-content: center;
+    }
+    
+    tr.cart-product-list {
+        border: 1px solid #e3e3e3;
+        margin-bottom: 15px;
+    }
+    tr.cart-product-list-1 {
+        border: 1px solid #000;
+        margin-bottom: 15px;
+    }
+    
+    tr.cart-product-list:last-child {
+        margin-bottom: 0;
+    }
+      
+    tr.cart-product-list-1:last-child {
+        margin-bottom: 0;
+    }
+    td.cart-price {
+        padding: 0;
+        margin-top: -35px;
+    }
+    
+    .product-quantity {
+        margin-top: -35px;
+    }
+    .cart-product-details {
+        margin-top: -35px;
+    }
+    .cta-contact-2.width-height {
+        margin-top: 30px;
+    }
+
+    tr.cart-product-list-1.product-table {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    tr.cart-product-list-1.product-table td {
+        padding: 30px;
+        text-align: center;
+    }
+    
+    tr.cart-product-list-1.product-table td span {
+        text-align: center;
+    }
+
+    .product-quantity {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        margin-left: 34px;
+    }
+
+    tr.cart-product-list td {
+        padding: 24px 0 30px 0;
+        vertical-align: middle;
+    }
+
+
+    .codepen-area {
+        display: block;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 20px;
+    }
+
+    .coupon-input {
+        display: flex;
+        padding-bottom: 20px;
+    }
+
+    .cart-price {
+        padding-left: 22px;
+    }
+
+    .coupon-author._relative {
+        display: block;
+    }
+
+    .coupon-author .coupon-author-button {
+        padding-left: 0;
+        padding-top: 20px;
+    }
+
+    tr.cart-product-list-1.product-table td {
+        padding: 17px;
+        text-align: center;
+    }
+    .checkout-button.text-right {
+        margin-top: 30px;
+    }
+    tr.cart-product-list-1.product-table {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    .coupon-input {
+        display: block;
+    }
+
+    .codepen-area .all-3-btn {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+}
+
+/*----===================
+------CART PAGE CSS----
+========================*/
+
+/*----===================
+------  CONTACT PAGE CSS----
+========================*/
+
+@media screen and (max-width: 769px) {
+    .contact-page-box {
+        margin-top: 30px;
+    }
+    .contact-img.img100 {
+        padding-bottom: 40px;
+    }
+    .checkout-input {
+        margin-top: 20px;
+    }
+
+    .page-hadding-w h1 {
+        font-size: 36px;
+        line-height: 42px;
+    }
+
+    footer.footer-area4 .single-footer4 p {
+        /* color: red; */
+        padding-right: 0;
+    }
+}
+
+/*----===================
+------CONTACT PAGE CSS----
+========================*/
+
+
+/*----===================
+------HOME5 PAGE CSS----
+========================*/
+
+@media screen and (max-width: 769px) {
+
+    .main-hadding5 {
+        padding-top: 120px;
+    }
+    .main-hadding5 h1 {
+        color: #1C1C57;
+      font-size: 40px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 48px; /* 110.714% */
+      text-transform: capitalize;
+      }
+
+      .hero5-images {
+        margin-top: 230px;
+      }
+
+      .hero5-img1 {
+        position: absolute;
+      right: 0;
+      }
+
+      .hadding5 h1 {
+        font-size: 32px;
+      }
+}
+
+@media screen and (max-width: 426px) {
+    .about5-images {
+        position: relative;
+        height: 420px;
+    }
+
+    .aobut5-img1 {
+        position: absolute;
+        left: 0;
+        top: -30px;
+      }
+
+      .contact5-boxs {
+        margin-left: 0;
+      }
+}
+
+/*----===================
+------HOME5 PAGE CSS----
+========================*/
+
+/*----===================
+------HOME6 PAGE CSS----
+========================*/
+
+@media screen and (max-width: 769px) {
+    .main-hadding6 {
+        padding-top: 200px;
+    }
+
+    .main-hadding6 h1 {
+        color: #10242D;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 48px;
+        letter-spacing: -0.56px;
+        text-transform: capitalize;
+    }
+    
+    .brand6-logo {
+        position: absolute;
+        top: 93px;
+        left: 50%;
+    }
+
+    .hero6-main-img {
+        position: absolute;
+        right: auto;
+        left: 0;
+        z-index: 9;
+    }
+
+    .hero6-images {
+        margin-top: 70px;
+        margin-bottom: 70px;
+    }
+
+    .hero6-main-shape {
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+
+    .cta6-buttons {
+        text-align: start;
+        margin-top: 30px;
+    }
+    .hadding6 h1 {
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .hadding6-w h1 {
+        font-size: 36px;
+        line-height: 42px;
+    }
+
+}
+
+@media screen and (max-width: 426px) {
+    .cta6-btn2 {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    .hero6-counter-box {
+        width: 300px;
+    }
+}
+
+/*----===================
+------HOME6 PAGE CSS----
+========================*/
+
+/*----===================
+------HOME7 PAGE CSS----
+========================*/
+
+@media screen and (max-width: 769px) {
+    .main-hadding7 {
+        padding-top: 200px;
+    }
+    .main-hadding7 h1 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+    
+    .hero7-images {
+        margin: 40px 0;
+    }
+
+    .hero7-images {
+        height: 1130px;
+    }
+
+    .hero7-img3 {
+        position: absolute;
+        top: 291px;
+        right: 0;
+    }
+
+    .hadding7 h1 {
+        font-size: 36px;
+        line-height: 42px;
+    }
+
+    .about7-hadding {
+        padding-top: 30px;
+    }
+
+    .about7-images {
+        position: relative;
+        height: 790px;
+    }
+
+    .about7-images {
+        position: relative;
+        height: 500px;
+    }
+
+    .counter-box7 {
+        margin-top: 30px;
+    }
+
+}
+
+@media screen and (max-width: 426px) {
+    .theme-btn9 {
+        margin-left: 0;
+    }
+    .cta7-btn2 {
+        margin-left: 0;
+    }
+    .about7-images {
+        position: relative;
+        height: 800px;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    .hero7-images {
+        height: 1060px;
+    }
+    
+}
+
+@media screen and (max-width: 321px) {
+    .hero7-images {
+        height: 1000px;
+    }
+}
+
+/*----===================
+------HOME7 PAGE CSS----
+========================*/
+
+
+/*----===================
+------HOME8 PAGE CSS----
+========================*/
+
+@media screen and (max-width: 769px) {
+    .main-hadding8 {
+        padding-top: 180px;
+    }
+
+    .main-hadding8 h1 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+
+    .hero8-images {
+        position: relative;
+        height: 630px;
+        margin-right: 0;
+        margin-left: 0;
+        margin-top: 70px;
+    }
+    .about8-shape {
+        position: absolute;
+        top: -70px;
+        left: 0;
+        z-index: -1;
+    }
+
+    .hadding8 h1 {
+        font-size: 36px;
+        line-height: 42px;
+    }
+
+    .about8-hadding {
+        margin-top: 30px;
+    }
+
+    .progress8-images {
+        margin-top: 100px;
+    }
+
+    .progress8-shape {
+        position: absolute;
+        top: -60px;
+        right: 0;
+        z-index: -1;
+    }
+
+    .hero8-counter-box2 {
+        position: absolute;
+        top: 150px;
+        left: 0;
+    }
+
+}
+
+@media screen and (max-width: 426px) {
+    .hero8-images {
+        position: relative;
+        height: 430px;
+        margin-right: 0;
+        margin-left: 0;
+        margin-top: 70px;
+    }
+
+    .theme-btn11 {
+        margin-left: 0;
+        margin-top: 16px;
+    }
+}
+
+@media screen and (max-width: 376px)  {
+    .cta8-btn2 {
+        margin-left: 0;
+        margin-top: 16px;
+    }
+}
+/*----===================
+------HOME8 PAGE CSS----
+========================*/
+
+/*----===================
+------HOME9 PAGE CSS----
+========================*/
+
+@media screen and (max-width: 769px) {
+    .main-hadding9 {
+        padding-top: 100px;
+    }
+    .main-hadding9 h1 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+    .hero9-images {
+        position: relative;
+        height: 500px;
+        margin: 80px 0;
+    }
+    .hero6-counter-box {
+        background: #fff;
+        position: absolute;
+        width: 400px;
+        bottom: -21px;
+        z-index: 10;
+        left: 0;
+        border-radius: 5px;
+        padding: 24px;
+    }
+
+    .about9-hadding {
+        padding-left: 0;
+        padding-top: 30px;
+      }
+
+      .hadding9 h1 {
+        font-size: 36px;
+        line-height: 42px;
+    }
+
+    .counter9-box {
+        margin-top: 30px;
+    }
+
+    .case9-button {
+        text-align: start;
+        margin-top: 30px;
+    }
+
+    .contact6-img {
+        margin-left: 0;
+    }
+
+    .about9-hadding {
+        padding-left: 0;
+      }
+      .about8-hadding {
+        padding-left: 0;
+      }
+}
+
+/*----===================
+------HOME9 PAGE CSS----
+========================*/
