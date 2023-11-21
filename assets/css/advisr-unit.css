@@ -1162,7 +1162,7 @@ border-radius: 4px;
   
   .pricing h4 {
 	font-size: 36px;
-	color: #0fac79;
+	color: rgb(54 176 79);
 	font-weight: 600;
 	font-family: "Poppins", sans-serif;
 	margin-bottom: 20px;
@@ -1212,7 +1212,7 @@ border-radius: 4px;
   }
   
   .pricing .btn-buy {
-	background: #03c988;
+	background: rgb(54 176 79);
 	display: inline-block;
 	padding: 8px 35px 10px 35px;
 	border-radius: 50px;
@@ -1226,16 +1226,16 @@ border-radius: 4px;
   }
   
   .pricing .btn-buy:hover {
-	background: #0a9466;
+	background: rgb(45 145 65);
   }
   
   .pricing .featured {
-	border: 2px solid #0a9466;
+	border: 2px solid rgb(54 176 79);
   }
   
   .pricing .featured h3 {
 	color: #fff;
-	background: #0a9466;
+	background-color: rgb(54 176 79);
   }
   
   .pricing .advanced {
@@ -1247,6 +1247,6 @@ border-radius: 4px;
 	z-index: 1;
 	font-size: 14px;
 	padding: 1px 0 3px 0;
-	background: #0a9466;
+	background: rgb(54 176 79);
 	color: #fff;
   }
