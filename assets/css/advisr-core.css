@@ -1127,7 +1127,10 @@ line-height: 30px;
   text-align: center;
   line-height: 60px;
   border-radius: 50%;
+  font-size: 25px !important;
 }
+
+
 
 .read-more-btn-w {
   color: rgba(255, 255, 255, 0.85);
