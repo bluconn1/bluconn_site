@@ -26,6 +26,17 @@
                     </ul>
                 </li>
                 <li>
+                    <a href="#about" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle link" >About Page</a>
+                    <ul class="collapse list-unstyled" id="about">
+                        <li>
+                            <a href="aboutText.php">Text Content</a>
+                        </li>
+                        <li>
+                            <a href="aboutImg.php">Image Content</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
                     <!-- <a href="#item" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle link" >Manage Store</a>
                     <ul class="collapse list-unstyled" id="item">
                         <li>

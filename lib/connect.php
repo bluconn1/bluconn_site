@@ -69,5 +69,56 @@ class connect{
         mysqli_stmt_close($stmt);
         return $res;
     }
+    function allAboutText()
+    {
+        $sql="SELECT * FROM about_text";
+        $res=mysqli_query($this->con,$sql);
+        return $res;
+    }
+    function getAboutText($id)
+    {
+        $sql="SELECT * FROM about_text WHERE id='$id'";
+        $res=mysqli_query($this->con,$sql);
+        return $res;
+    }
+    function updateAboutText($id,$text1,$text2,$text3,$text4)
+    {
+        $sql = "UPDATE about_text SET 
+            text1 = ?,
+            text2 = ?,
+            text3 = ?,
+            text4 = ?
+            WHERE id = ?";
+
+        $stmt = mysqli_prepare($this->con, $sql);
+        mysqli_stmt_bind_param($stmt, 'ssssi', $text1, $text2, $text3, $text4, $id);
+        $res = mysqli_stmt_execute($stmt);
+        mysqli_stmt_close($stmt);
+        return $res;
+    }
+    function allAboutImg()
+    {
+        $sql="SELECT * FROM about_img";
+        $res=mysqli_query($this->con,$sql);
+        return $res;
+    }
+    function getAboutImg($id)
+    {
+        $sql="SELECT * FROM about_img WHERE id='$id'";
+        $res=mysqli_query($this->con,$sql);
+        return $res;
+    }
+    function updateAboutImg($id,$img)
+    {
+        $sql = "UPDATE about_img SET 
+            img = ?
+            WHERE id = ?";
+
+        $stmt = mysqli_prepare($this->con, $sql);
+        mysqli_stmt_bind_param($stmt, 'si', $img, $id);
+        $res = mysqli_stmt_execute($stmt);
+        mysqli_stmt_close($stmt);
+        return $res;
+    }
 }
 ?>
